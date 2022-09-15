@@ -81,6 +81,11 @@ export default {
           title: 'Inspire',
           to: '/inspire',
         },
+        {
+          icon: 'mdi-text-box',
+          title: 'Doc',
+          to: '/doc',
+        },
       ],
       miniVariant: false,
       right: true,
