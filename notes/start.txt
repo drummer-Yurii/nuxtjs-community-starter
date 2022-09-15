@@ -1,0 +1,19 @@
+npm update
+npm upgrade
+npm init nuxt-app nuxtjs-community-starter
+
+To get started:
+
+        cd nuxtjs-community-starter
+        npm run dev
+
+  To build & start for production: 
+
+        cd nuxtjs-community-starter
+        npm run build
+        npm run start
+
+  To test:
+
+        cd nuxtjs-community-starter
+        npm run test
